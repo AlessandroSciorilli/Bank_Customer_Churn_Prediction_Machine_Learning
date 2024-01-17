@@ -1,4 +1,4 @@
-### Project 3: Machine Learning-Based Bank Customer Churn Prediction, 2023
+### Machine Learning-Based Bank Customer Churn Prediction, 2023
 Application of different Machine Learning algorithms to predict whether a customer will leave the bank, based on different features.
 - Crafted multiple machine learning models (K-Nearest Neighbors, Naive Bayes, Support Vector Machine, Decision Tree, Random Forest, K-Means Clustering, and Logistic Regression) for predicting customer churn in banking sector.
 - Executed comprehensive data preprocessing and exploratory data analysis, focusing on customer demographics, financial behaviors, and product usage to uncover key indicators of churn.
